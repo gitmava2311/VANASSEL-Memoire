@@ -1,0 +1,10 @@
+FirstN : Eric
+LastN : Larson
+Gender : M
+Birthyear : 1996
+PG : Real Estate and Construction
+Expertise : real estate transactions;construction projects;PPPs
+Bar : [2021; Brussels]
+Arrival : 2021
+Degree : [Master; Law;public law; Catholic University Leuven; Belgium; 2021][LLM;Law;International Laws;Maastricht University;Netherlands;2019]
+Exchange_programme : [Erasmus;University Toulouse; France; 2019]

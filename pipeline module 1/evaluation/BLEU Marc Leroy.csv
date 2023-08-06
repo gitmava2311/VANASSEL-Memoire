@@ -1,0 +1,6 @@
+﻿Sentence Nr;Source sentence;Human translated sentence;First machine translated sentence;Second Machine translated sentence;First machine translated sentence bleu score;Second machine translated sentence bleu score
+1;FirstN : Marc;born in 1990;born in 1990;born in 1990;100.000.000;100.000.000
+2;LastN : Leroy;master ’ s degree in law from ghent university ( 2017 );master ' s degree in law from the ghent university ( 2014 );master ' s degree in law from university of ghent , belgium ( 2014 );40.896.015;29.256.127
+3;Gender : M;master of laws ( ll.m . ) in international financial law from king ’ s college london , united kingdom ( 2018 );master of laws ( ll.m . ) in international financial law from the king ' s college london , united kingdom ( 2018 );ll.m . degree in international financial law from king ' s college london , united kingdom ( 2018 );80.405.147;57.474.324
+4;Birthyear : 1990;admitted to the brussels bar in 2018;admitted to the brussels bar in 2018;admitted to the brussels bar in 2018;100.000.000;100.000.000
+5;"PG : Capital Markets;banking and financial";with the brussels office of stibbe since 2018;with the brussels office of stibbe since 2018;with the brussels office of stibbe since 2018;100.000.000;100.000.000

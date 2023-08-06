@@ -1,0 +1,10 @@
+FirstN : Marc
+LastN : Leroy
+Gender : M
+Birthyear : 1990
+PG : Capital Markets;banking and financial 
+Expertise : financial regulatory;Belgian financial transactions;cross-border financial transactions
+Bar : [2018; Brussels]
+Arrival : 2018
+Degree : [Master; Law;; University of Ghent; Belgium; 2014][LL.M.; Law; International Financial Law; King's College London; United Kingdom; 2018]
+Exchange_programme : 
